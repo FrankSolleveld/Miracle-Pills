@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					9576BFFE1F059358005309CC = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 8S8EJS2M66;
+						DevelopmentTeam = 2BRJ7L3SUQ;
 						ProvisioningStyle = Automatic;
 					};
 					9576C0121F059358005309CC = {
@@ -417,10 +417,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8S8EJS2M66;
+				DEVELOPMENT_TEAM = 2BRJ7L3SUQ;
 				INFOPLIST_FILE = "Miracle Pills/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "devslopesFrank.Miracle-Pills";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Frank.-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -430,10 +430,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8S8EJS2M66;
+				DEVELOPMENT_TEAM = 2BRJ7L3SUQ;
 				INFOPLIST_FILE = "Miracle Pills/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "devslopesFrank.Miracle-Pills";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Frank.-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -516,6 +516,7 @@
 				9576C0291F059358005309CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9576C02A1F059358005309CC /* Build configuration list for PBXNativeTarget "Miracle PillsTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				9576C02C1F059358005309CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9576C02D1F059358005309CC /* Build configuration list for PBXNativeTarget "Miracle PillsUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				9576C02F1F059358005309CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
